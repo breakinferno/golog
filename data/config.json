@@ -1,0 +1,16 @@
+{
+    "name": "GoLog",
+    "baseUrl": "localhost:8888",
+    "port": 8888,
+    "db": {
+        "type": "mysql",
+        "options": {
+            "user": "root",
+            "password": "breakIN",
+            "host": "localhost",
+            "port": 3306,
+            "dbname": "golog",
+            "connectTimeout": "10s"
+        }
+    }
+}
